@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Henrique
 
 - 🐧 Em busca de ser um back-end
-- ☕ estudando Java Poo
+- ☕ Estudando Java Poo
 - 🎈 Pronouns: ele/dele
 
  <div style="display: inline_block"><br>
